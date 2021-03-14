@@ -4,4 +4,5 @@ public interface jk {
 	void m();
 	String n();
 	int i = 0;
+	
 }

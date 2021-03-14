@@ -17,7 +17,7 @@ public class casd implements jk{
 	@Override
 	public void m01() {
 		// TODO Auto-generated method stub
-		
+		System.out.println(123);
 	}
 
 	@Override
